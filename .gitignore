@@ -4,6 +4,8 @@
 # Vite build output
 /dist
 
+# .env file
+.env
 
 # Log files
 npm-debug.log*
